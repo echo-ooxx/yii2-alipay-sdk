@@ -5,6 +5,9 @@
  * @author auto create
  * @since 1.0, 2016-12-08 00:47:36
  */
+
+namespace gooob\alipaysdk\request;
+
 class AlipayTradeCustomsQueryRequest
 {
 	/** 
