@@ -5,6 +5,9 @@
  * @author auto create
  * @since 1.0, 2017-04-05 14:00:32
  */
+
+namespace gooob\alipaysdk\request;
+
 class AlipayFundTransToaccountTransferRequest
 {
 	/** 

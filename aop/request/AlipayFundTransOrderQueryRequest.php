@@ -5,6 +5,9 @@
  * @author auto create
  * @since 1.0, 2017-02-09 15:07:43
  */
+
+namespace gooob\alipaysdk\request;
+
 class AlipayFundTransOrderQueryRequest
 {
 	/** 

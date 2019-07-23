@@ -5,6 +5,9 @@
  * @author auto create
  * @since 1.0, 2017-03-13 11:26:28
  */
+
+namespace gooob\alipaysdk\request;
+
 class AlipayFundAuthOperationCancelRequest
 {
 	/** 
